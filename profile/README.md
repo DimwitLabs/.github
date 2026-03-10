@@ -1,7 +1,7 @@
 # Dimwit
 > The name comes from the knuckleheadedness of believing one person can be an entire software lab by themselves.
 
-[manifesto](https://dimwit.me/manifesto.html) | [dimwit.me](https://dimwit.me/) | [deepanshkhurana [at] outlook [dot] com](mailto:deepanshkhurana@outlook.com)
+[manifesto](https://dimwit.me/manifesto.html) | [dimwit.me](https://dimwit.me/) | [chief [at] dimwit [dot] me](mailto:chief@dimwit.me)
 
 ----
 
